@@ -1,4 +1,5 @@
-## Hi there 👋
+## Welcome to my repository! 🎉 I'm a university student specializing in software development, passionate about building innovative solutions and expanding my skills in programming and technology. 
+## Hungary / University of Nyíregyháza - Software Developer student, NYE-PTI
 
 <!--
 **SgtGombi/SgtGombi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
